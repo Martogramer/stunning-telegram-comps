@@ -16,6 +16,7 @@
   "dependencies": {
     "@portabletext/react": "^1.0.6",
     "@sanity/base": "^2.30.5",
+    "@sanity/client": "^3.2.0",
     "@sanity/core": "^2.30.5",
     "@sanity/default-layout": "^2.30.5",
     "@sanity/default-login": "^2.30.5",
