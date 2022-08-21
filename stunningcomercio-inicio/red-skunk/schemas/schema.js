@@ -9,7 +9,7 @@ import human from './human'
 import product from './product'
 import article from './article'
 import link from './link'
-import simpleBlockContent from './simpleBlockContent'
+import simpleBlockContent from './banner'
 
 // Then we give our schema to the builder and provide the result to Sanity
 export default createSchema({
