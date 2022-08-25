@@ -3,9 +3,9 @@ import { Box, Stack, Typography } from '@mui/material';
 import HeroBannerImage from '../assets/images/banner.png';
 
 const HeroBanner = () => (
-    <Box sx={{ mt: { lg: '212px', xs: '70px' }, ml: { sm: '50px' } }} position="relative" p="20px">
+    <Box sx={{ mt: { lg: '212px', xs: '70px' }, ml: { sm: '90px' } }} position="relative" p="20px">
         <Typography color="#FF2625" fontWeight="600" fontSize="26px">Fitness Club</Typography>
-        <Typography fontWeight={700} sx={{ fontSize: { lg: '44px', xs: '40px' } }} mb="23px" mt="30px">
+        <Typography fontWeight={600} sx={{ fontSize: { lg: '64px', xs: '60px' } }} mb="23px" mt="30px">
             Sweat, Smile <br />
             And Repeat
         </Typography>
