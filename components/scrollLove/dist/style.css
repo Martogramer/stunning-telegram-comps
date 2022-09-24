@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css?family=Signika+Negative:300,400&display=swap");
+body {
+  font-family: "Signika Negative", sans-serif;
+  font-weight: 400;
+  height: 400vh;
+  text-align: center;
+  user-select: none;
+}
+
+.delayed-section {
+  position: absolute;
+  width: 30vw;
+  height: 38.87vw;
+}
+.delayed-section .inner-container {
+  will-change: transform;
+}
+.delayed-section img {
+  max-width: 100%;
+  will-change: transform;
+}
+
+#del1 {
+  top: 10vh;
+  left: 5vw;
+}
+#del2 {
+  top: 30vh;
+  left: 35vw;
+}
+#del3 {
+  top: 20vh;
+  left: 65vw;
+}
+#del4 {
+  top: 105vh;
+  left: 5vw;
+}
+#del5 {
+  top: 105vh;
+  left: 35vw;
+}
+#del6 {
+  top: 117vh;
+  left: 65vw;
+}
+#del7 {
+  top: 190vh;
+  left: 5vw;
+}
+#del8 {
+  top: 200vh;
+  left: 35vw;
+}
+#del9 {
+  top: 210vh;
+  left: 65vw;
+}
+#del10 {
+  top: 295vh;
+  left: 5vw;
+}
+#del11 {
+  top: 290vh;
+  left: 30vw;
+}
+#del12 {
+  top: 290vh;
+  left: 60vw;
+}
+#del13 {
+  top: 380vh;
+  left: 5vw;
+}
+#del14 {
+  top: 390vh;
+  left: 38vw;
+}
+#del15 {
+  top: 385vh;
+  left: 66vw;
+}
+#del16 {
+  top: 470vh;
+  left: 5vw;
+}
